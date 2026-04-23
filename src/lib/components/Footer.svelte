@@ -5,6 +5,7 @@
 		<div class="flex flex-col">
 			<a class="link w-fit" href="https://privacy.techsup.uk">Privacy policy</a>
 			<a class="link w-fit" href="https://unsubscribe.techsup.uk">Unsubscribe</a>
+			<a class="link w-fit" href="https://subscribe.techsup.uk">Subscribe</a>
 		</div>
 		<span class="text-wash-300">Tech Support! Interactive Ltd.</span>
 	</aside>
